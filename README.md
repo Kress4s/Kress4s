@@ -4,5 +4,5 @@
 
 - 📚 focusing on go & python & js
 - 👀 I’m currently learning some devops
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on netfish
 - 🍗 Meat fans
